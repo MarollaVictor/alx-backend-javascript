@@ -1,0 +1,17 @@
+{
+  "name": "task_0",
+  "version": "1.0.0",
+  "description": "ALX Backend JavaScript Unit Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha *.test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "debug": "^3.2.7",
+    "glob": "^7.2.3",
+    "mocha": "^7.2.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
